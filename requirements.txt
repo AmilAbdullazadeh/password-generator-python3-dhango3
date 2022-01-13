@@ -8,7 +8,7 @@ filelock==3.0.12
 isort==4.3.21
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
-Pillow==7.1.1
+Pillow==9.0.0
 pipenv==2018.11.26
 pylint==2.4.4
 pytz==2019.3
